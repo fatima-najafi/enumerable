@@ -21,7 +21,7 @@
 
 # 🎯 Custome Enumerable<a name="about-project"></a>
 
-> In this project you will learn how to use a module inside your class. For this you will create a class MyList and a module MyEnumerable. Your module MyEnumerable will implement a subset of the functionality of Enumerable.
+> In this project, we will create a class called MyList and a module called MyEnumerable. The MyEnumerable module will provide a subset of the functionality found in the built-in Enumerable module.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
